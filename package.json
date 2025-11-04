@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "react-node-express-mysql-crud",
+  "version": "1.0.0",
+  "description": "Criando uma aplicação node + react + mysql envolvendo as 4  operações básicas do BD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SauloCunha02/react-node-express-mysql-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SauloCunha02/react-node-express-mysql-crud/issues"
+  },
+  "homepage": "https://github.com/SauloCunha02/react-node-express-mysql-crud#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3",
+    "sequelize": "^6.37.7"
+  }
+}
