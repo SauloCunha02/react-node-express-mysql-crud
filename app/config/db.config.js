@@ -1,9 +1,9 @@
 export default {
     HOST: "localhost",
     USER: "root",
-    PASSWORD: "root",
-    DB: "db",
-    PORT: 8081,
+    PASSWORD: "",
+    DB: "crudnode",
+    PORT: 3306,
     dialect: "mysql",
     pool: {
         max: 5,
